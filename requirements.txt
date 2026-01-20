@@ -1,0 +1,12 @@
+hyperliquid-python-sdk
+requests
+pandas
+numpy
+python-dotenv
+schedule
+sqlalchemy
+aiohttp
+asyncio
+flask
+flask-cors
+gunicorn
